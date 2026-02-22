@@ -1,0 +1,17 @@
+datasets
+python-dotenv
+pydantic
+pytrec-eval-terrier
+typing_extensions
+langchain_openai
+numpy
+nltk
+openai
+einops
+triton
+sentence-transformers
+ninja
+packaging
+kaggle
+transformers
+#flash-attn
